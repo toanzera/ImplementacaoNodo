@@ -1,0 +1,6 @@
+comedia;99;1;shrek;Disponivel
+comedia;60;2;madagascar;Emprestado
+tom holland;pinheiro;245;3;a culpa é das estrelas;Disponivel
+tom jeffy;pioneiro;400;4;diario de um banana;Disponivel
+diario;20;2023;5;jornal;Disponivel
+semanal;30;2011;6;novela;Disponivel

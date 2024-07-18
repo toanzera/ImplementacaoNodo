@@ -1,0 +1,6 @@
+0001;ads;tauan;roberto joao deito;124;casa;vinhedos;caxias do sul;rs;3232
+0002;adm;pedro;municipal;645;casa;aparecida;caxias do sul;rs;1212
+0003;comunicação;luiza;matteo gianella;633;casa;santa lucia;caxias do sul;rs;2121
+0004;medicina;lucas;alfredo jacconi;111;casa;sagrada familia;caxias do sul;rs;4444
+0005;design;julia;urbana;300;casa;pioneiro;caxias do sul;rs;2000
+0006;ads;joana;julio de castilhos;275;casa;fátima;caxias do sul;rs;205060

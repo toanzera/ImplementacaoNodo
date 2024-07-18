@@ -1,0 +1,21 @@
+C:\Users\Tauan Maciel\OneDrive\Área de Trabalho\PROGRAMAS\Trabalho De Implementação\bin\Debug\Trabalho De Implementação.exe.config
+C:\Users\Tauan Maciel\OneDrive\Área de Trabalho\PROGRAMAS\Trabalho De Implementação\bin\Debug\Trabalho De Implementação.exe
+C:\Users\Tauan Maciel\OneDrive\Área de Trabalho\PROGRAMAS\Trabalho De Implementação\bin\Debug\Trabalho De Implementação.pdb
+C:\Users\Tauan Maciel\OneDrive\Área de Trabalho\PROGRAMAS\Trabalho De Implementação\obj\Debug\Trabalho De Implementação.csproj.AssemblyReference.cache
+C:\Users\Tauan Maciel\OneDrive\Área de Trabalho\PROGRAMAS\Trabalho De Implementação\obj\Debug\Trabalho De Implementação.csproj.CoreCompileInputs.cache
+C:\Users\Tauan Maciel\OneDrive\Área de Trabalho\PROGRAMAS\Trabalho De Implementação\obj\Debug\Trabalho De Implementação.exe
+C:\Users\Tauan Maciel\OneDrive\Área de Trabalho\PROGRAMAS\Trabalho De Implementação\obj\Debug\Trabalho De Implementação.pdb
+C:\Users\Tauan Maciel\OneDrive\Área de Trabalho\TRABALHO\Trabalho De Implementação\bin\Debug\Trabalho De Implementação.exe.config
+C:\Users\Tauan Maciel\OneDrive\Área de Trabalho\TRABALHO\Trabalho De Implementação\bin\Debug\Trabalho De Implementação.exe
+C:\Users\Tauan Maciel\OneDrive\Área de Trabalho\TRABALHO\Trabalho De Implementação\bin\Debug\Trabalho De Implementação.pdb
+C:\Users\Tauan Maciel\OneDrive\Área de Trabalho\TRABALHO\Trabalho De Implementação\obj\Debug\Trabalho De Implementação.csproj.AssemblyReference.cache
+C:\Users\Tauan Maciel\OneDrive\Área de Trabalho\TRABALHO\Trabalho De Implementação\obj\Debug\Trabalho De Implementação.csproj.CoreCompileInputs.cache
+C:\Users\Tauan Maciel\OneDrive\Área de Trabalho\TRABALHO\Trabalho De Implementação\obj\Debug\Trabalho De Implementação.exe
+C:\Users\Tauan Maciel\OneDrive\Área de Trabalho\TRABALHO\Trabalho De Implementação\obj\Debug\Trabalho De Implementação.pdb
+C:\Users\Tauan Maciel\OneDrive\Área de Trabalho\TRABALHO\Tauan Maciel de Freitas\Trabalho De Implementação\bin\Debug\Trabalho De Implementação.exe.config
+C:\Users\Tauan Maciel\OneDrive\Área de Trabalho\TRABALHO\Tauan Maciel de Freitas\Trabalho De Implementação\bin\Debug\Trabalho De Implementação.exe
+C:\Users\Tauan Maciel\OneDrive\Área de Trabalho\TRABALHO\Tauan Maciel de Freitas\Trabalho De Implementação\bin\Debug\Trabalho De Implementação.pdb
+C:\Users\Tauan Maciel\OneDrive\Área de Trabalho\TRABALHO\Tauan Maciel de Freitas\Trabalho De Implementação\obj\Debug\Trabalho De Implementação.csproj.AssemblyReference.cache
+C:\Users\Tauan Maciel\OneDrive\Área de Trabalho\TRABALHO\Tauan Maciel de Freitas\Trabalho De Implementação\obj\Debug\Trabalho De Implementação.csproj.CoreCompileInputs.cache
+C:\Users\Tauan Maciel\OneDrive\Área de Trabalho\TRABALHO\Tauan Maciel de Freitas\Trabalho De Implementação\obj\Debug\Trabalho De Implementação.exe
+C:\Users\Tauan Maciel\OneDrive\Área de Trabalho\TRABALHO\Tauan Maciel de Freitas\Trabalho De Implementação\obj\Debug\Trabalho De Implementação.pdb
